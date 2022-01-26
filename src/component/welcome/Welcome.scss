@@ -1,0 +1,13 @@
+.welcome-container{
+    margin-top: 50px;
+    background-color: rgb(221, 158, 202);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: calc(100vh - 50px);
+    width: 100vw;
+    flex-grow: 1;
+    flex: 1;
+    flex-direction: column;
+    
+}

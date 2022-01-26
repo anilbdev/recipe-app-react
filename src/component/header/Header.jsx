@@ -23,6 +23,26 @@ function Header({ onRecipeSelect }) {
           searchKey={"italian"}
           title={"Italian"}
         />
+         <Button
+          onRecipeSelect={onRecipeSelect}
+          searchKey={"mexican"}
+          title={"Mexican"}
+        />
+          <Button
+          onRecipeSelect={onRecipeSelect}
+          searchKey={"mexican"}
+          title={"Mexican"}
+        />
+         <Button
+          onRecipeSelect={onRecipeSelect}
+          searchKey={"spanish"}
+          title={"Spanish"}
+        />
+         <Button
+          onRecipeSelect={onRecipeSelect}
+          searchKey={"chinese"}
+          title={"Chinese"}
+        />
       </nav>
     </div>
   )
