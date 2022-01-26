@@ -1,0 +1,50 @@
+.recipeWrapper {
+    transform: translate((0px, 50px));
+    width: 100%;
+    position: absolute;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(270px,1fr) );
+    transition: all 200ms ease;
+    // overflow-y: auto;
+    // height: auto;
+    // top: 50px;
+    
+}
+.recipeCard {
+    width              : 250px;
+    height             : 350px;
+    margin             : 10px;
+    display            : flex;
+    flex-direction     : column;
+    border             : 1x solid #ccc;
+    border-radius      : 10px;
+    box-shadow         : 4px 4px 10px rgba($color: #000, $alpha: 0.5), -4px -4px 10px rgba($color: #000, $alpha: 0.5);
+    align-items     : center;
+    justify-content: center;
+    .recipeImage {
+        width        : 230px;
+        height       : 250px;
+        overflow     : hidden;
+        border-radius: 10px;
+        margin-top   : 10px;
+        align-self   : center;
+        object-fit   : cover;
+    }
+    .recipeName {
+        font-family: 'Roboto';
+        font-size  : 15px;
+        color      : #171717;
+        margin     : 5px;
+    }
+    .recipeInfo {
+        color  : #868585;
+        display: flex;
+        margin   : 5px;
+        font-size: 14px;
+        
+        span{
+            margin-left: 5px;
+            margin-right: 10px;
+        }
+    }
+}

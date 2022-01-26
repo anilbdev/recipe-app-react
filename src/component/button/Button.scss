@@ -1,0 +1,24 @@
+@import '../../global.scss';
+
+
+
+.buttonContainer{
+    button {
+        height          : 50px;
+        border          : 0px;
+        cursor          : pointer;
+        background-color: $secondary;
+        color           : #fff;
+        outline         : none;
+        border-radius: 5px;
+        margin: 0 10px;
+        width: 70px;
+        height: 35px;
+
+        
+        &:hover {
+            background-color: rgb(151, 146, 146);
+        }
+    }
+
+}

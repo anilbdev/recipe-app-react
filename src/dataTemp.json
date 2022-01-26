@@ -1,0 +1,819 @@
+{
+    "vegetarian": true,
+    "vegan": true,
+    "glutenFree": true,
+    "dairyFree": true,
+    "veryHealthy": true,
+    "cheap": false,
+    "veryPopular": false,
+    "sustainable": false,
+    "weightWatcherSmartPoints": 2,
+    "gaps": "no",
+    "lowFodmap": false,
+    "aggregateLikes": 32,
+    "spoonacularScore": 98,
+    "healthScore": 87,
+    "creditsText": "Lisa's Vegetarian Kitchen",
+    "license": "CC BY 2.5 CA",
+    "sourceName": "Food and Spice",
+    "pricePerServing": 100.72,
+    "extendedIngredients": [
+        {
+            "id": 16063,
+            "aisle": "Pasta and Rice;Canned and Jarred",
+            "image": "black-eyed-peas.jpg",
+            "consistency": "solid",
+            "name": "black eyed peas",
+            "nameClean": "blackeyed peas",
+            "original": "2/3 cup dried black-eyed peas (2 cups cooked)",
+            "originalString": "2/3 cup dried black-eyed peas (2 cups cooked)",
+            "originalName": "2/3 cup dried black-eyed peas cooked)",
+            "amount": 2,
+            "unit": "cups",
+            "meta": [
+                "dried",
+                "cooked"
+            ],
+            "metaInformation": [
+                "dried",
+                "cooked"
+            ],
+            "measures": {
+                "us": {
+                    "amount": 2,
+                    "unitShort": "cups",
+                    "unitLong": "cups"
+                },
+                "metric": {
+                    "amount": 473.176,
+                    "unitShort": "ml",
+                    "unitLong": "milliliters"
+                }
+            }
+        },
+        {
+            "id": 2015,
+            "aisle": "Spices and Seasonings",
+            "image": "curry-powder.jpg",
+            "consistency": "solid",
+            "name": "curry powder",
+            "nameClean": "curry powder",
+            "original": "2 teaspoons curry powder",
+            "originalString": "2 teaspoons curry powder",
+            "originalName": "curry powder",
+            "amount": 2,
+            "unit": "teaspoons",
+            "meta": [],
+            "metaInformation": [],
+            "measures": {
+                "us": {
+                    "amount": 2,
+                    "unitShort": "tsps",
+                    "unitLong": "teaspoons"
+                },
+                "metric": {
+                    "amount": 2,
+                    "unitShort": "tsps",
+                    "unitLong": "teaspoons"
+                }
+            }
+        },
+        {
+            "id": 93663,
+            "aisle": "Ethnic Foods;Spices and Seasonings",
+            "image": "garam-masala.jpg",
+            "consistency": "solid",
+            "name": "garam masala",
+            "nameClean": "garam masala",
+            "original": "1/2 teaspoon garam masala",
+            "originalString": "1/2 teaspoon garam masala",
+            "originalName": "garam masala",
+            "amount": 0.5,
+            "unit": "teaspoon",
+            "meta": [],
+            "metaInformation": [],
+            "measures": {
+                "us": {
+                    "amount": 0.5,
+                    "unitShort": "tsps",
+                    "unitLong": "teaspoons"
+                },
+                "metric": {
+                    "amount": 0.5,
+                    "unitShort": "tsps",
+                    "unitLong": "teaspoons"
+                }
+            }
+        },
+        {
+            "id": 11209,
+            "aisle": "Produce",
+            "image": "eggplant.png",
+            "consistency": "solid",
+            "name": "globe eggplant",
+            "nameClean": "eggplant",
+            "original": "1 large globe or Italian eggplant",
+            "originalString": "1 large globe or Italian eggplant",
+            "originalName": "globe or Italian eggplant",
+            "amount": 1,
+            "unit": "large",
+            "meta": [
+                "italian"
+            ],
+            "metaInformation": [
+                "italian"
+            ],
+            "measures": {
+                "us": {
+                    "amount": 1,
+                    "unitShort": "large",
+                    "unitLong": "large"
+                },
+                "metric": {
+                    "amount": 1,
+                    "unitShort": "large",
+                    "unitLong": "large"
+                }
+            }
+        },
+        {
+            "id": 1002013,
+            "aisle": "Spices and Seasonings",
+            "image": "ground-coriander.jpg",
+            "consistency": "solid",
+            "name": "ground coriander",
+            "nameClean": "ground coriander",
+            "original": "1/2 teaspoon ground coriander",
+            "originalString": "1/2 teaspoon ground coriander",
+            "originalName": "ground coriander",
+            "amount": 0.5,
+            "unit": "teaspoon",
+            "meta": [],
+            "metaInformation": [],
+            "measures": {
+                "us": {
+                    "amount": 0.5,
+                    "unitShort": "tsps",
+                    "unitLong": "teaspoons"
+                },
+                "metric": {
+                    "amount": 0.5,
+                    "unitShort": "tsps",
+                    "unitLong": "teaspoons"
+                }
+            }
+        },
+        {
+            "id": 1002014,
+            "aisle": "Spices and Seasonings",
+            "image": "ground-cumin.jpg",
+            "consistency": "solid",
+            "name": "ground cumin",
+            "nameClean": "cumin",
+            "original": "1/2 teaspoon ground cumin",
+            "originalString": "1/2 teaspoon ground cumin",
+            "originalName": "ground cumin",
+            "amount": 0.5,
+            "unit": "teaspoon",
+            "meta": [],
+            "metaInformation": [],
+            "measures": {
+                "us": {
+                    "amount": 0.5,
+                    "unitShort": "tsps",
+                    "unitLong": "teaspoons"
+                },
+                "metric": {
+                    "amount": 0.5,
+                    "unitShort": "tsps",
+                    "unitLong": "teaspoons"
+                }
+            }
+        },
+        {
+            "id": 1002024,
+            "aisle": "Spices and Seasonings",
+            "image": "dry-mustard.jpg",
+            "consistency": "solid",
+            "name": "mustard powder",
+            "nameClean": "mustard powder",
+            "original": "1/2 teaspoon ground mustard powder",
+            "originalString": "1/2 teaspoon ground mustard powder",
+            "originalName": "ground mustard powder",
+            "amount": 0.5,
+            "unit": "teaspoon",
+            "meta": [],
+            "metaInformation": [],
+            "measures": {
+                "us": {
+                    "amount": 0.5,
+                    "unitShort": "tsps",
+                    "unitLong": "teaspoons"
+                },
+                "metric": {
+                    "amount": 0.5,
+                    "unitShort": "tsps",
+                    "unitLong": "teaspoons"
+                }
+            }
+        },
+        {
+            "id": 9152,
+            "aisle": "Produce",
+            "image": "lemon-juice.jpg",
+            "consistency": "liquid",
+            "name": "juice of lemon",
+            "nameClean": "lemon juice",
+            "original": "juice from 1 lemon (3 tablespoons)",
+            "originalString": "juice from 1 lemon (3 tablespoons)",
+            "originalName": "juice from 1 lemon",
+            "amount": 3,
+            "unit": "",
+            "meta": [],
+            "metaInformation": [],
+            "measures": {
+                "us": {
+                    "amount": 3,
+                    "unitShort": "",
+                    "unitLong": ""
+                },
+                "metric": {
+                    "amount": 3,
+                    "unitShort": "",
+                    "unitLong": ""
+                }
+            }
+        },
+        {
+            "id": 4053,
+            "aisle": "Oil, Vinegar, Salad Dressing",
+            "image": "olive-oil.jpg",
+            "consistency": "liquid",
+            "name": "olive oil",
+            "nameClean": "olive oil",
+            "original": "2 teaspoons olive oil",
+            "originalString": "2 teaspoons olive oil",
+            "originalName": "olive oil",
+            "amount": 2,
+            "unit": "teaspoons",
+            "meta": [],
+            "metaInformation": [],
+            "measures": {
+                "us": {
+                    "amount": 2,
+                    "unitShort": "tsps",
+                    "unitLong": "teaspoons"
+                },
+                "metric": {
+                    "amount": 2,
+                    "unitShort": "tsps",
+                    "unitLong": "teaspoons"
+                }
+            }
+        },
+        {
+            "id": 11819,
+            "aisle": "Produce",
+            "image": "red-chili.jpg",
+            "consistency": "solid",
+            "name": "red chilies",
+            "nameClean": "chili pepper",
+            "original": "2 green or red chilies, seeded and finely chopped",
+            "originalString": "2 green or red chilies, seeded and finely chopped",
+            "originalName": "green or red chilies, seeded and finely chopped",
+            "amount": 2,
+            "unit": "",
+            "meta": [
+                "green",
+                "red",
+                "seeded",
+                "finely chopped"
+            ],
+            "metaInformation": [
+                "green",
+                "red",
+                "seeded",
+                "finely chopped"
+            ],
+            "measures": {
+                "us": {
+                    "amount": 2,
+                    "unitShort": "",
+                    "unitLong": ""
+                },
+                "metric": {
+                    "amount": 2,
+                    "unitShort": "",
+                    "unitLong": ""
+                }
+            }
+        },
+        {
+            "id": 1012047,
+            "aisle": "Spices and Seasonings",
+            "image": "salt.jpg",
+            "consistency": "solid",
+            "name": "sea salt",
+            "nameClean": "coarse sea salt",
+            "original": "1 teaspoon sea salt, or to taste",
+            "originalString": "1 teaspoon sea salt, or to taste",
+            "originalName": "sea salt, or to taste",
+            "amount": 1,
+            "unit": "teaspoon",
+            "meta": [
+                "to taste"
+            ],
+            "metaInformation": [
+                "to taste"
+            ],
+            "measures": {
+                "us": {
+                    "amount": 1,
+                    "unitShort": "tsp",
+                    "unitLong": "teaspoon"
+                },
+                "metric": {
+                    "amount": 1,
+                    "unitShort": "tsp",
+                    "unitLong": "teaspoon"
+                }
+            }
+        },
+        {
+            "id": 11677,
+            "aisle": "Produce",
+            "image": "shallots.jpg",
+            "consistency": "solid",
+            "name": "shallots",
+            "nameClean": "shallot",
+            "original": "2 shallots, mined",
+            "originalString": "2 shallots, mined",
+            "originalName": "shallots, mined",
+            "amount": 2,
+            "unit": "",
+            "meta": [],
+            "metaInformation": [],
+            "measures": {
+                "us": {
+                    "amount": 2,
+                    "unitShort": "",
+                    "unitLong": ""
+                },
+                "metric": {
+                    "amount": 2,
+                    "unitShort": "",
+                    "unitLong": ""
+                }
+            }
+        },
+        {
+            "id": 11147,
+            "aisle": "Produce",
+            "image": "swiss-chard.jpg",
+            "consistency": "solid",
+            "name": "swiss chard",
+            "nameClean": "swiss chard",
+            "original": "1 bunch Swiss chard, trimmed and chopped",
+            "originalString": "1 bunch Swiss chard, trimmed and chopped",
+            "originalName": "Swiss chard, trimmed and chopped",
+            "amount": 1,
+            "unit": "bunch",
+            "meta": [
+                "trimmed",
+                "chopped"
+            ],
+            "metaInformation": [
+                "trimmed",
+                "chopped"
+            ],
+            "measures": {
+                "us": {
+                    "amount": 1,
+                    "unitShort": "bunch",
+                    "unitLong": "bunch"
+                },
+                "metric": {
+                    "amount": 1,
+                    "unitShort": "bunch",
+                    "unitLong": "bunch"
+                }
+            }
+        },
+        {
+            "id": 11529,
+            "aisle": "Produce",
+            "image": "tomato.png",
+            "consistency": "solid",
+            "name": "tomato",
+            "nameClean": "tomato",
+            "original": "1 medium tomato, finely chopped",
+            "originalString": "1 medium tomato, finely chopped",
+            "originalName": "tomato, finely chopped",
+            "amount": 1,
+            "unit": "medium",
+            "meta": [
+                "finely chopped"
+            ],
+            "metaInformation": [
+                "finely chopped"
+            ],
+            "measures": {
+                "us": {
+                    "amount": 1,
+                    "unitShort": "medium",
+                    "unitLong": "medium"
+                },
+                "metric": {
+                    "amount": 1,
+                    "unitShort": "medium",
+                    "unitLong": "medium"
+                }
+            }
+        },
+        {
+            "id": 14412,
+            "aisle": "Beverages",
+            "image": "water.png",
+            "consistency": "liquid",
+            "name": "water",
+            "nameClean": "water",
+            "original": "5 tablespoons water, or more as needed",
+            "originalString": "5 tablespoons water, or more as needed",
+            "originalName": "water, or more as needed",
+            "amount": 5,
+            "unit": "tablespoons",
+            "meta": [
+                "as needed"
+            ],
+            "metaInformation": [
+                "as needed"
+            ],
+            "measures": {
+                "us": {
+                    "amount": 5,
+                    "unitShort": "Tbsps",
+                    "unitLong": "Tbsps"
+                },
+                "metric": {
+                    "amount": 5,
+                    "unitShort": "Tbsps",
+                    "unitLong": "Tbsps"
+                }
+            }
+        }
+    ],
+    "id": 798400,
+    "title": "Spicy Black-Eyed Pea Curry with Swiss Chard and Roasted Eggplant",
+    "readyInMinutes": 45,
+    "servings": 6,
+    "sourceUrl": "http://foodandspice.blogspot.com/2016/08/spicy-black-eyed-pea-curry-with-swiss.html",
+    "image": "https://spoonacular.com/recipeImages/798400-556x370.jpg",
+    "imageType": "jpg",
+    "summary": "The recipe Spicy Black-Eyed Pea Curry with Swiss Chard and Roasted Eggplant is ready <b>in roughly 45 minutes</b> and is definitely a spectacular <b>gluten free and vegan</b> option for lovers of Indian food. This recipe makes 6 servings with <b>130 calories</b>, <b>7g of protein</b>, and <b>2g of fat</b> each. For <b>99 cents per serving</b>, this recipe <b>covers 21%</b> of your daily requirements of vitamins and minerals. A few people made this recipe, and 32 would say it hit the spot. A mixture of chilies, olive oil, garam masala, and a handful of other ingredients are all it takes to make this recipe so delicious. All things considered, we decided this recipe <b>deserves a spoonacular score of 98%</b>. This score is amazing. Try <a href=\"https://spoonacular.com/recipes/black-eyed-peas-in-a-spicy-goan-curry-31050\">Black-eyed Peas In A Spicy Goan Curry</a>, <a href=\"https://spoonacular.com/recipes/black-eyed-peas-in-a-spicy-goan-curry-31057\">Black-eyed Peas In A Spicy Goan Curry</a>, and <a href=\"https://spoonacular.com/recipes/roasted-butternut-squash-black-bean-and-swiss-chard-quinoa-bibimbap-247604\">Roasted Butternut Squash, Black Bean and Swiss Chard Quinoa Bibimbap</a> for similar recipes.",
+    "cuisines": [
+        "Indian",
+        "Asian"
+    ],
+    "dishTypes": [
+        "side dish"
+    ],
+    "diets": [
+        "gluten free",
+        "dairy free",
+        "lacto ovo vegetarian",
+        "vegan"
+    ],
+    "occasions": [],
+    "winePairing": {
+        "pairedWines": [
+            "gruener veltliner",
+            "riesling",
+            "sparkling rose"
+        ],
+        "pairingText": "Gruener Veltliner, Riesling, and Sparkling rosé are my top picks for Indian. The best wine for Indian food will depending on the dish, of course, but these picks can be served chilled and have some sweetness to complement the spiciness and complex flavors of a wide variety of traditional dishes. The Aichenberg Premium Gruner Veltliner with a 4.2 out of 5 star rating seems like a good match. It costs about 12 dollars per bottle.",
+        "productMatches": [
+            {
+                "id": 484528,
+                "title": "Aichenberg Premium Gruner Veltliner",
+                "description": "Aichenberg's Premium Gruner Veltlinern is a family-run Austrian delicacy. It has aromas of fresh fruit and spiciness, with notes of tropical fruits and pepper. The freshness in taste gives off flavors of green apples which are long lasting and pack a punch at the finish. \nThis wine pairs well with white meat, fish, cheeses and Italian dishes such as pizza and pasta.",
+                "price": "$11.99",
+                "imageUrl": "https://spoonacular.com/productImages/484528-312x231.jpg",
+                "averageRating": 0.8400000000000001,
+                "ratingCount": 5,
+                "score": 0.7775000000000001,
+                "link": "https://click.linksynergy.com/deeplink?id=*QCiIS6t4gA&mid=2025&murl=https%3A%2F%2Fwww.wine.com%2Fproduct%2Faichenberg-premium-gruner-veltliner-2017%2F514282"
+            }
+        ]
+    },
+    "instructions": "Rinse the black-eyed peas and soak in several inches of water for 6 hours or overnight. Drain and rinse, then transfer to a large saucepan and cover with fresh water. Bring to a boil, reduce heat to medium-low, cover, and simmer for 40 to 60 minutes. Take care not to overcook  the beans should be tender but not be falling apart. Drain and set aside.To prepare the eggplant, cut of the stem and bottom edge and then cut in half lengthwise. Score the flesh into diagonal 1-inch lines, then turn and score again until you have a diagonal pattern. Take care not to cut through the skin. Sprinkle with some salt and let sit for 40 minutes. Rinse and squeeze out any excess water. Brush the eggplant with some oil and transfer to a roasting pan. Bake in a preheated 400 oven until the flesh appears collapsed and is wrinkly. Remove from heat and let cool for about 10 minutes, season with a bit of salt, and remove the flesh from the eggplant. If there is too much water, drain in a strainer. Set aside.Heat the oil over medium heat in the same saucepan used to cook the black-eyed peas. When hot, toss in the shallots and chilies and saut for 2 to 3 minutes. Now add the spices and stir for another minute, until fragrant. Add the tomato, cook for another few minutes, and then add the eggplant and black-eyed peas, and cook for another few minutes, stirring often.Pour a few tablespoons of water into the pan and add handfuls of chard at a time until wilted. Add more water as necessary. Add the lemon juice and salt to taste near the end of the cooking time. Remove from heat, cover, and let sit for a few minutes before serving.",
+    "analyzedInstructions": [
+        {
+            "name": "",
+            "steps": [
+                {
+                    "number": 1,
+                    "step": "Rinse the black-eyed peas and soak in several inches of water for 6 hours or overnight.",
+                    "ingredients": [
+                        {
+                            "id": 14412,
+                            "name": "water",
+                            "localizedName": "water",
+                            "image": "water.png"
+                        },
+                        {
+                            "id": 11304,
+                            "name": "peas",
+                            "localizedName": "peas",
+                            "image": "peas.jpg"
+                        }
+                    ],
+                    "equipment": [],
+                    "length": {
+                        "number": 360,
+                        "unit": "minutes"
+                    }
+                },
+                {
+                    "number": 2,
+                    "step": "Drain and rinse, then transfer to a large saucepan and cover with fresh water. Bring to a boil, reduce heat to medium-low, cover, and simmer for 40 to 60 minutes. Take care not to overcook  the beans should be tender but not be falling apart.",
+                    "ingredients": [
+                        {
+                            "id": 0,
+                            "name": "beans",
+                            "localizedName": "beans",
+                            "image": "kidney-beans.jpg"
+                        },
+                        {
+                            "id": 14412,
+                            "name": "water",
+                            "localizedName": "water",
+                            "image": "water.png"
+                        }
+                    ],
+                    "equipment": [
+                        {
+                            "id": 404669,
+                            "name": "sauce pan",
+                            "localizedName": "sauce pan",
+                            "image": "sauce-pan.jpg"
+                        }
+                    ],
+                    "length": {
+                        "number": 40,
+                        "unit": "minutes"
+                    }
+                },
+                {
+                    "number": 3,
+                    "step": "Drain and set aside.To prepare the eggplant, cut of the stem and bottom edge and then cut in half lengthwise. Score the flesh into diagonal 1-inch lines, then turn and score again until you have a diagonal pattern. Take care not to cut through the skin.",
+                    "ingredients": [
+                        {
+                            "id": 11209,
+                            "name": "eggplant",
+                            "localizedName": "eggplant",
+                            "image": "eggplant.png"
+                        }
+                    ],
+                    "equipment": []
+                },
+                {
+                    "number": 4,
+                    "step": "Sprinkle with some salt and let sit for 40 minutes. Rinse and squeeze out any excess water.",
+                    "ingredients": [
+                        {
+                            "id": 14412,
+                            "name": "water",
+                            "localizedName": "water",
+                            "image": "water.png"
+                        },
+                        {
+                            "id": 2047,
+                            "name": "salt",
+                            "localizedName": "salt",
+                            "image": "salt.jpg"
+                        }
+                    ],
+                    "equipment": [],
+                    "length": {
+                        "number": 40,
+                        "unit": "minutes"
+                    }
+                },
+                {
+                    "number": 5,
+                    "step": "Brush the eggplant with some oil and transfer to a roasting pan.",
+                    "ingredients": [
+                        {
+                            "id": 11209,
+                            "name": "eggplant",
+                            "localizedName": "eggplant",
+                            "image": "eggplant.png"
+                        },
+                        {
+                            "id": 4582,
+                            "name": "cooking oil",
+                            "localizedName": "cooking oil",
+                            "image": "vegetable-oil.jpg"
+                        }
+                    ],
+                    "equipment": [
+                        {
+                            "id": 404629,
+                            "name": "roasting pan",
+                            "localizedName": "roasting pan",
+                            "image": "roasting-pan.jpg"
+                        }
+                    ]
+                },
+                {
+                    "number": 6,
+                    "step": "Bake in a preheated 400 oven until the flesh appears collapsed and is wrinkly.",
+                    "ingredients": [],
+                    "equipment": [
+                        {
+                            "id": 404784,
+                            "name": "oven",
+                            "localizedName": "oven",
+                            "image": "oven.jpg"
+                        }
+                    ]
+                },
+                {
+                    "number": 7,
+                    "step": "Remove from heat and let cool for about 10 minutes, season with a bit of salt, and remove the flesh from the eggplant. If there is too much water, drain in a strainer. Set aside.",
+                    "ingredients": [
+                        {
+                            "id": 11209,
+                            "name": "eggplant",
+                            "localizedName": "eggplant",
+                            "image": "eggplant.png"
+                        },
+                        {
+                            "id": 14412,
+                            "name": "water",
+                            "localizedName": "water",
+                            "image": "water.png"
+                        },
+                        {
+                            "id": 2047,
+                            "name": "salt",
+                            "localizedName": "salt",
+                            "image": "salt.jpg"
+                        }
+                    ],
+                    "equipment": [
+                        {
+                            "id": 405600,
+                            "name": "sieve",
+                            "localizedName": "sieve",
+                            "image": "strainer.png"
+                        }
+                    ],
+                    "length": {
+                        "number": 10,
+                        "unit": "minutes"
+                    }
+                },
+                {
+                    "number": 8,
+                    "step": "Heat the oil over medium heat in the same saucepan used to cook the black-eyed peas. When hot, toss in the shallots and chilies and saut for 2 to 3 minutes. Now add the spices and stir for another minute, until fragrant.",
+                    "ingredients": [
+                        {
+                            "id": 11677,
+                            "name": "shallot",
+                            "localizedName": "shallot",
+                            "image": "shallots.jpg"
+                        },
+                        {
+                            "id": 11819,
+                            "name": "chili pepper",
+                            "localizedName": "chili pepper",
+                            "image": "red-chili.jpg"
+                        },
+                        {
+                            "id": 2035,
+                            "name": "spices",
+                            "localizedName": "spices",
+                            "image": "spices.png"
+                        },
+                        {
+                            "id": 11304,
+                            "name": "peas",
+                            "localizedName": "peas",
+                            "image": "peas.jpg"
+                        },
+                        {
+                            "id": 4582,
+                            "name": "cooking oil",
+                            "localizedName": "cooking oil",
+                            "image": "vegetable-oil.jpg"
+                        }
+                    ],
+                    "equipment": [
+                        {
+                            "id": 404669,
+                            "name": "sauce pan",
+                            "localizedName": "sauce pan",
+                            "image": "sauce-pan.jpg"
+                        }
+                    ],
+                    "length": {
+                        "number": 2,
+                        "unit": "minutes"
+                    }
+                },
+                {
+                    "number": 9,
+                    "step": "Add the tomato, cook for another few minutes, and then add the eggplant and black-eyed peas, and cook for another few minutes, stirring often.",
+                    "ingredients": [
+                        {
+                            "id": 11209,
+                            "name": "eggplant",
+                            "localizedName": "eggplant",
+                            "image": "eggplant.png"
+                        },
+                        {
+                            "id": 11529,
+                            "name": "tomato",
+                            "localizedName": "tomato",
+                            "image": "tomato.png"
+                        },
+                        {
+                            "id": 11304,
+                            "name": "peas",
+                            "localizedName": "peas",
+                            "image": "peas.jpg"
+                        }
+                    ],
+                    "equipment": []
+                },
+                {
+                    "number": 10,
+                    "step": "Pour a few tablespoons of water into the pan and add handfuls of chard at a time until wilted.",
+                    "ingredients": [
+                        {
+                            "id": 11147,
+                            "name": "swiss chard",
+                            "localizedName": "swiss chard",
+                            "image": "swiss-chard.jpg"
+                        },
+                        {
+                            "id": 14412,
+                            "name": "water",
+                            "localizedName": "water",
+                            "image": "water.png"
+                        }
+                    ],
+                    "equipment": [
+                        {
+                            "id": 404645,
+                            "name": "frying pan",
+                            "localizedName": "frying pan",
+                            "image": "pan.png"
+                        }
+                    ]
+                },
+                {
+                    "number": 11,
+                    "step": "Add more water as necessary.",
+                    "ingredients": [
+                        {
+                            "id": 14412,
+                            "name": "water",
+                            "localizedName": "water",
+                            "image": "water.png"
+                        }
+                    ],
+                    "equipment": []
+                },
+                {
+                    "number": 12,
+                    "step": "Add the lemon juice and salt to taste near the end of the cooking time.",
+                    "ingredients": [
+                        {
+                            "id": 9152,
+                            "name": "lemon juice",
+                            "localizedName": "lemon juice",
+                            "image": "lemon-juice.jpg"
+                        },
+                        {
+                            "id": 2047,
+                            "name": "salt",
+                            "localizedName": "salt",
+                            "image": "salt.jpg"
+                        }
+                    ],
+                    "equipment": []
+                },
+                {
+                    "number": 13,
+                    "step": "Remove from heat, cover, and let sit for a few minutes before serving.",
+                    "ingredients": [],
+                    "equipment": []
+                }
+            ]
+        }
+    ],
+    "originalId": null,
+    "spoonacularSourceUrl": "https://spoonacular.com/spicy-black-eyed-pea-curry-with-swiss-chard-and-roasted-eggplant-798400"
+}
